@@ -35,5 +35,5 @@ You can clone this project or follow the [Project setup from scratch](#project-s
 
 4. Optional additions
   - `git init`
-  - adding a `.gitignore` file
+  - add a `.gitignore` file
   - add `prettier`
